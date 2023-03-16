@@ -1,2 +1,2 @@
 # activities
-App for 
+App for practice React, Typescript and Next
